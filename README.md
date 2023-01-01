@@ -1,6 +1,6 @@
 ### Hey there, I'm Mandeep Singhmar👋
 
-## I'm a Front End Developer, ReactJs developer and avid learner!
+## I'm a Front End Developer, ReactJs/NextJS developer and avid learner!
 - Passionate about web development technologies!
 - Building cool projects. 
 - Contributing to the community.
