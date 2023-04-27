@@ -8,7 +8,7 @@
 * HTML, CSS, JAVASCRIPT, REACT, REDUX, CSS LIBRARIES, SASS, Typescript, Nexjs, Material UI, Chakra-UI, Ants
 
 ## Backend
-* Familiar with -  MONGODB, EXPRESS, NODE, TYPESCRIPT 
+*  MONGODB, EXPRESS, NODE, TYPESCRIPT 
 
 ### Languages and Tools:
 
