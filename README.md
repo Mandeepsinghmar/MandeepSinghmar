@@ -5,7 +5,7 @@
 - Learning new web technologies.
 
 ## Frontend 
-* HTML, CSS, JAVASCRIPT, REACT, REDUX, CSS LIBRARIES, SASS, Typescript, Nexjs, Material UI, Chakra-UI, Ants
+* HTML, CSS, JAVASCRIPT, REACT, REDUX, CSS LIBRARIES, SASS, Typescript, Nexjs, Material UI, Chakra-UI, Ants, Animation
 
 ## Backend
 *  MONGODB, EXPRESS, NODE, TYPESCRIPT 
