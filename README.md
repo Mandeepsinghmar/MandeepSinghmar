@@ -9,13 +9,13 @@
  **Examine's front-end** (examine.com)
  
  **Over 20 projects for JavaScript Mastery**, educating thousands of students on new technologies 
-** Youtube playlist of projects built by me: **
+**Youtube playlist of projects built by me:**
  
  youtube.com/playlistlist=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR
- **
- The Eagle3Dstreaming Platform** (eagle3dstreaming.com)
  
-** Softhesis Labs' financial platform** (getfinancially.com)
+ **The Eagle3Dstreaming Platform** (eagle3dstreaming.com)
+ 
+**Softhesis Labs' financial platform** (getfinancially.com)
 
 
 ## Frontend 
