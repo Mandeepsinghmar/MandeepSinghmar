@@ -12,9 +12,9 @@
  
 [Youtube playlist of projects built by me](https://www.youtube.com/playlist?list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR)
  
- **The Eagle3Dstreaming Platform** (eagle3dstreaming.com)
+ **The Eagle3Dstreaming Platform** (https://www.eagle3dstreaming.com)
  
-**Softhesis Labs' financial platform** (getfinancially.com)
+**Softhesis Labs' financial platform** (https://www.getfinancially.com)
 
 
 ## Frontend 
