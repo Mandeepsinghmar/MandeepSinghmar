@@ -6,7 +6,7 @@
 
 ## I have contributed to:
 
- [**Examine's front-end** ]((https://examine.com/)
+ **Examine's front-end** (https://examine.com)
  
  **Over 20 projects for JavaScript Mastery**, educating thousands of students on new technologies 
  
