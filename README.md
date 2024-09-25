@@ -1,3 +1,5 @@
+## Overview
+
  I am a **front-end developer** with **4 years of experience,** proficient in React/Next.js, TailwindCSS, TypeScript/JavaScript, and Node/Express. I specialize in transforming design mockups into fully functional user interfaces
  
  and have successfully collaborated with **companies across** the **USA, Canada, India, and Europe.**
