@@ -6,16 +6,16 @@
 
 ## I have contributed to:
 
- Examine's front-end (examine.com)
+ **Examine's front-end** (examine.com)
  
- Over 20 projects for JavaScript Mastery, educating thousands of students on new technologies 
- ## Youtube playlist of projects built by me: 
+ **Over 20 projects for JavaScript Mastery**, educating thousands of students on new technologies 
+** Youtube playlist of projects built by me: **
  
  youtube.com/playlistlist=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR
+ **
+ The Eagle3Dstreaming Platform** (eagle3dstreaming.com)
  
- The Eagle3Dstreaming Platform (eagle3dstreaming.com)
- 
- Softhesis Labs' financial platform (getfinancially.com)
+** Softhesis Labs' financial platform** (getfinancially.com)
 
 
 ## Frontend 
