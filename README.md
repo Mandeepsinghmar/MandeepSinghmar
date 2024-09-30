@@ -4,7 +4,7 @@
  
  and have successfully collaborated with **companies across** the **USA, Canada, India, and Europe.**
 
-## I have Worked in these companies as frontend engineer
+## Job experience
 
  **Examine's front-end** (https://examine.com)
  
