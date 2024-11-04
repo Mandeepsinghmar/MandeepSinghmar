@@ -6,12 +6,13 @@
 
 ## Job experience
 
- **Examine's front-end** (https://examine.com)
+**Softhesis Labs' financial platform** (https://www.getfinancially.com) June 2023 - Present
+
+ **Over 20 projects for JavaScript Mastery**, educating thousands of students on new technologies Aug 2021 - Feb 2023
+ [Youtube playlist of projects built by me](https://www.youtube.com/playlist?list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR)
+
+ **Examine's front-end** (https://examine.com) July 2022 - Oct 2022
  
- **Over 20 projects for JavaScript Mastery**, educating thousands of students on new technologies 
+ **The Eagle3Dstreaming Platform** (https://www.eagle3dstreaming.com) March 2022 - Nov 2022
  
-[Youtube playlist of projects built by me](https://www.youtube.com/playlist?list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR)
- 
- **The Eagle3Dstreaming Platform** (https://www.eagle3dstreaming.com)
- 
-**Softhesis Labs' financial platform** (https://www.getfinancially.com)
+
