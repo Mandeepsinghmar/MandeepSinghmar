@@ -6,7 +6,7 @@
 
 ## Job experience
 
-**Softhesis Labs' financial platform** (https://www.getfinancially.com) June 2023 - Present
+**Softhesis Labs' financial platform** (https://tryfinancially.com/) June 2023 - Present
 
  **Over 20 projects for JavaScript Mastery**, educating thousands of students on new technologies Aug 2021 - Feb 2023
  [Youtube playlist of projects built by me](https://www.youtube.com/playlist?list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR)
