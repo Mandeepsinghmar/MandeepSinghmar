@@ -16,6 +16,6 @@
  **The Eagle3Dstreaming Platform** (https://www.eagle3dstreaming.com) March 2022 - Nov 2022
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mandeepsinghmar&layout=compact) 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mandeep)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@mandeep)](https://github.com/anuraghazra/github-readme-stats)
  
 
