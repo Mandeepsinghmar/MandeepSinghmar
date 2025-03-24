@@ -15,7 +15,8 @@
  
  **The Eagle3Dstreaming Platform** (https://www.eagle3dstreaming.com) March 2022 - Nov 2022
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mandeepsinghmar&layout=compact) 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mandeepsinghmar&layout=compact) ![Profile Views](https://komarev.com/ghpvc/?username=Mandeepsinghmar)
+
 
  
 
