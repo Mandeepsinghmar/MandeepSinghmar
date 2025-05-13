@@ -4,6 +4,8 @@
  
  and have successfully collaborated with **companies across** the **USA, Canada, India, and Europe.**
 
+ **Personal Portfolio** [https://mandeep.vercel.app/]
+
 ## Job experience
 
 **Softhesis Labs' financial platform** (https://tryfinancially.com/) June 2023 - Present
