@@ -4,7 +4,7 @@
  
  and have successfully collaborated with **companies across** the **USA, Canada, India, and Europe.**
 
- **Personal Portfolio** [https://mandeep.vercel.app/]
+ **Personal Portfolio** https://mandeep.vercel.app/
 
 ## Job experience
 
